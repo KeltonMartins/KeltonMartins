@@ -16,10 +16,6 @@ it seriously and with focus in 2024, the year I entered university</h4>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KeltonMartins&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ##
 
 <div align="left">
