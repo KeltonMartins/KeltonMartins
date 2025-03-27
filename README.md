@@ -1,7 +1,5 @@
-<img align="right" src="https://svgsilh.com/svg/309981.svg" height="350" alt="coffee image" />
-
-<h1 align="left">Hello, welcome to my profile!</h1>
-<h2 align="left">My name is Kelton Martins!</h2>
+# Hello, welcome to my profile!
+<h2 align="left""> My name is Kelton Martins </h2>
 
 `Future Full Stack Developer 🚀`
 
@@ -11,7 +9,7 @@
 I am 21 years old and will soon turn 22. I was introduced <br/>
 to programming seven years ago, but I only started studying <br/>
 it seriously and with focus in 2024, the year I entered university</h4>
-###
+####
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=KeltonMartins&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
