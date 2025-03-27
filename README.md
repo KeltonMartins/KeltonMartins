@@ -55,6 +55,6 @@ it seriously and with focus in 2024, the year I entered university</h4>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/KeltonMartins/KeltonMartins/output/snake.svg" alt="Snake animation" />
 
 ###
