@@ -12,10 +12,11 @@ it seriously and with focus in 2024, the year I entered university</h4>
 ####
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeltonMartins&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KeltonMartins&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=KeltonMartins&locale=en&mode=weekly&theme=gotham&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KeltonMartins&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1&ver=2" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KeltonMartins&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true&order=2&ver=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=KeltonMartins&locale=en&mode=weekly&theme=gotham&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&ver=2" height="150" alt="streak graph"  />
 </div>
+
 
 ##
 
