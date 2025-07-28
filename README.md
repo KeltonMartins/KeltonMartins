@@ -6,7 +6,7 @@
 
 <h4 align="left">Software Engineering student - Federal University of Ceará<br/><br/>
 
-I am 21 years old and will soon turn 22. I was introduced <br/>
+I am 22 years old. I was introduced <br/>
 to programming seven years ago, but I only started studying <br/>
 it seriously and with focus in 2024, the year I entered university</h4>
 ####
